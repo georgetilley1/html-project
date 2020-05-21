@@ -1,0 +1,78 @@
+body {
+    background: url("background2.jpg") repeat center center fixed;
+    background-color: gray;
+    margin-left: 15%;
+    margin-right: 15%;
+    margin-top: auto;
+    margin-bottom: auto;
+    background-size: cover;
+    width: auto;
+}
+
+h1 {
+    font-family: 'Oswald', sans-serif;
+    font-size: 100px;
+    text-align: center;
+    color: white;
+}
+
+.logo {
+    display: block;
+    width: 60%;
+    padding: 60px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+#welcome {
+    font-size: 200px;
+    text-align: center;
+}
+
+h2 {
+    font-family: 'Oswald', sans-serif;
+    font-size: 40px;
+    color: white;
+    text-align: center;
+}
+
+h3 {
+    font-family: 'Oswald', sans-serif;
+    font-size: 26px;
+    color: white;
+}
+
+.text {
+    /* font-family: 'Cinzel', serif; */
+    font-family: 'Oswald', sans-serif;
+    color: yellow;
+    font-size: 22px;
+    text-align: justify;
+    text-justify: inter-word;
+}
+
+#sketch {
+    display: block;
+    width: 60%;
+    padding: 0px;
+    margin-left: auto;
+    margin-right: auto;
+    border: 10px solid white;
+}
+
+#email {
+    color: magenta;
+    font-size: 30px;
+    text-align: center;
+}
+
+.nav {
+    color: red;
+    font-size: 22px;
+    text-align: center;
+}
+
+a {
+    color: red;
+    font-size: 22px;
+}
