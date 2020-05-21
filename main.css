@@ -41,6 +41,14 @@ h1 {
     margin-right: auto;
 }
 
+#logo4 {
+    display: block;
+    width: 40%;
+    padding: 60px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
 #welcome {
     font-size: 200px;
     text-align: center;
@@ -106,4 +114,20 @@ h3 {
     font-family: 'Oswald', sans-serif;
     color: red;
     font-size: 30px;
+}
+
+#link3 {
+    font-family: 'Oswald', sans-serif;
+    color: red;
+    font-size: 22px;
+    text-align: justify;
+    text-justify: inter-word;
+}
+
+#code {
+    width: 100%;
+    height: 1000px;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 10px;
 }
