@@ -131,3 +131,24 @@ h3 {
     margin-right: auto;
     padding: 10px;
 }
+
+#easterlink {
+    font-family: 'Oswald', sans-serif;
+    color: yellow;
+    font-size: 22px;
+    text-align: justify;
+    text-justify: inter-word;
+}
+
+#easteregg {
+    display: block;
+    width: 50%;
+    padding: 0px;
+    margin-left: auto;
+    margin-right: auto;
+    border: 10px solid white;
+}
+
+#eastersection {
+    text-align: center;
+}
