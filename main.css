@@ -1,3 +1,7 @@
+* {
+    box-sizing: border-box;
+}
+
 body {
     background: url("background2.jpg") repeat center center fixed;
     background-color: gray;
@@ -7,6 +11,19 @@ body {
     margin-bottom: auto;
     background-size: cover;
     width: auto;
+}
+
+.navbar {
+    font-family: 'Oswald', sans-serif;
+    color: red;
+    font-size: 60px;
+    text-align: center;
+}
+
+.link1 {
+    font-family: 'Oswald', sans-serif;
+    color: red;
+    font-size: 60px;
 }
 
 h1 {
@@ -53,7 +70,7 @@ h3 {
 
 #sketch {
     display: block;
-    width: 60%;
+    width: 50%;
     padding: 0px;
     margin-left: auto;
     margin-right: auto;
@@ -66,13 +83,27 @@ h3 {
     text-align: center;
 }
 
-.nav {
-    color: red;
+.green {
+    color: aquamarine;
+}
+
+.reference {
+    color: aquamarine;
+    font-family: 'Oswald', sans-serif;
     font-size: 22px;
+    text-align: justify;
+    text-justify: inter-word;
+}
+
+.nav {
+    font-family: 'Oswald', sans-serif;
+    color: red;
+    font-size: 30px;
     text-align: center;
 }
 
-a {
+.link2 {
+    font-family: 'Oswald', sans-serif;
     color: red;
-    font-size: 22px;
+    font-size: 30px;
 }
